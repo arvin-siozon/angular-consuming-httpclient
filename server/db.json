@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Tony Stark",
+      "email": "tony@mcu.com",
+      "phone": "001-123-4567"
+    },
+    {
+      "id": 2,
+      "name": "Black Widow",
+      "email": "black-widow@mcu.com",
+      "phone": "001-123-4568"
+    },
+    {
+      "name": "Nivra Siozon",
+      "email": "asiozon@updiliman.com",
+      "phone": "0921-1234321",
+      "id": 3
+    },
+    {
+      "name": "Arvin Siozon",
+      "email": "asiozon@yahoo.com",
+      "phone": "09211234567",
+      "id": 4
+    }
+  ]
+}
